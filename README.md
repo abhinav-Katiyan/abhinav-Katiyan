@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm passionate about transforming complex datasets
 
 ## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/abhinav-sharma](https://www.linkedin.com/in/abhinav-sharma-work21/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/abhinav-sharma-work21/))
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=wordpress&logoColor=white)](https://abhinav-resume.streamlit.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinavkatiyan21@gmail.com)
 
