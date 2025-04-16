@@ -43,25 +43,25 @@ Welcome to my GitHub profile! I am a **Data Analyst** with a strong foundation i
 
 ### **E-commerce Sales Analysis**  
 *Tools: SQL*  
-[View Project](https://github.com/abhinav-Katiyan/E-commerce-Sales-Analysis)
+[View Project](https://github.com/abhinav-Katiyan/ecommerce-sales-analysis-sql)
 - Performed **year-over-year sales growth** analysis and monthly revenue trends to uncover patterns in sales.
 - Utilized **SQL window functions** (RANK, LAG, LEAD, SUM) to calculate running totals, identifying revenue-driving months and seasonal sales spikes.
 
 ### **Swiggy Order Analysis**  
 *Tools: SQL, Power BI*  
-[View Project](https://github.com/abhinav-Katiyan/Swiggy-Order-Analysis)
+[View Project](https://app.powerbi.com/view?r=eyJrIjoiZGYwMTE5YzYtNjY4My00ZDQyLTk2OWEtNzdiM2MzMWQxMWM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 - Analyzed **100,000+ orders** to find patterns in customer behavior and sales trends.
 - Created **Power BI dashboards** that visualize key metrics like order volume, revenue, and customer engagement, which informed better decision-making across sales teams.
 
 ### **Global Economic Trends Explorer**  
 *Tools: Python, SQL*  
-[View Project](https://github.com/abhinav-Katiyan/Global-Economic-Trends)
+[View Project](https://economic-and-population-comparison-tool.streamlit.app/)
 - Built a **web app** using **Python** to gather **economic data** (GDP, population, inflation) from the **World Bank API**, saving the team **30+ hours per month** on data collection.
 - Analyzed key economic trends from 1960 to 2023, providing insights into global growth patterns and their impact on business.
 
 ### **Atliq Consumer Goods Reporting Dashboard**  
 *Tools: SQL, Power BI, Excel*  
-[View Project](https://github.com/abhinav-Katiyan/Atliq-Consumer-Goods-Reports)
+[View Project](https://app.powerbi.com/view?r=eyJrIjoiMmJhYzhkMWYtZDgyZS00NTg0LWEzMjItZmI1ZTUxMmNkNWI3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 - Created a **Power BI dashboard** that merged sales data from **multiple sources** (Excel, SQL).
 - Optimized the dashboard with **DAX Studio**, leading to a **5% performance boost** and reducing data-related expenses by **20%**.
 
