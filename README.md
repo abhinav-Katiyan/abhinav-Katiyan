@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about transforming complex datasets into actionable insights and driving strategic business decisions. With a solid foundation in **Excel, SQL, Power BI, and Python**, and hands-on experience with machine learning, I strive to solve real-world challenges and deliver impactful solutions.
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhinav-sharma&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=abhinav-sharma&color=blueviolet)+3000
 
 ---
 
