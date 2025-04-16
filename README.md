@@ -1,65 +1,84 @@
-# Hello! I'm Abhinav Sharma! 👋
+# Abhinav Sharma
 
-Welcome to my GitHub profile! I'm passionate about transforming complex datasets into actionable insights and driving strategic business decisions. With a solid foundation in **Excel, SQL, Power BI, and Python**, and hands-on experience with machine learning, I strive to solve real-world challenges and deliver impactful solutions.
+Welcome to my GitHub profile! I am a **Data Analyst** with a strong foundation in **SQL, Excel, Power BI, and Python**, driven by a passion for transforming complex datasets into actionable insights. My expertise lies in **data manipulation**, **visualization**, and **business intelligence**, which helps in making data-driven decisions that improve business performance.
 
 
 ---
 
 ## About Me
 
-- 💼 **Data Analyst** with a knack for leveraging data to fuel business growth.
-- 🌱 Currently diving deep into **Machine Learning** and **Data Visualization**.
-- 🎓 **Master of Business Administration** from Chandigarh University.
+- **Data Analyst** with extensive experience in data analysis, database management, and reporting.
+- Proficient in **SQL**, **Python**, **Excel**, and **Power BI**.
+- Currently pursuing an **MBA in Business Analytics** from **Chandigarh University**.
+
+---
 
 ## Profile Summary
 
-- 🔍 **Proven Ability**: Analyzing large datasets, debugging SQL queries, and transforming data to drive business decisions. Expertise in leveraging machine learning models to extract predictive insights.
-- 💡 **Technical Expertise**: Strong command over Excel, SQL, Power BI, and machine learning tools (such as Python, XGBoost, and scikit-learn), enabling efficient data manipulation, analysis, and model development.
-- 📊 **Market Research Proficiency**: Skilled in market research, requirement gathering, and both qualitative and quantitative analysis.
+- Strong experience in working with large datasets, debugging and optimizing SQL queries, and building data pipelines to automate reporting processes.
+- In-depth understanding of **business analysis** and how to leverage **SQL** to derive insights that drive business decisions.
+- Skilled at transforming raw data into clean datasets, developing dashboards, and creating reports that inform business strategies.
 
-## Tools and Technologies
+---
 
-- ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-- ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+## Technical Skills
+
+- **Data Analysis & Excel**: Advanced Excel Analysis, Power Query, Excel Macros, VBA
+- **Visualization & Data Wrangling**: Power BI, SQL, Excel Charts, Jupyter Notebooks
+- **Database Management**: MySQL, SQL Server
+- **Programming**: Python, SQL, VBA-Macros
+
+---
 
 ## Featured Projects
 
-### [Credit Card Usage Analysis](https://app.powerbi.com/view?r=eyJrIjoiNDY0YTQ2YjQtMzc4Ny00NmVlLWE2N2YtMmUzMzYwYjVmYzkxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-*Feb 2024 | Power BI, PowerPoint | Live Dashboard*
-- Analyzed 10,000+ data points to boost spending by 15% among 25-34 age group.
+### [E-commerce Sales Analysis](https://github.com/abhinav-Katiyan/E-commerce-Sales-Analysis)
+*Jan 2024 | SQL | GitHub Repository*  
+- Analyzed **year-over-year** sales growth and monthly revenue trends to identify seasonal patterns and revenue-driving months.
+- Utilized **SQL window functions** (RANK, LAG, LEAD, SUM) to compute running totals and order intervals, enabling key business stakeholders to make data-driven decisions.
 
-### [World Bank Economic Analysis](https://economic-and-population-comparison-tool.streamlit.app/)
-*Jan 2024 | Excel, Python, Streamlit | Web App*
-- Automated economic data collection, saving 30 hours/month, and informed strategic decisions.
+### [Swiggy Order Analysis](https://github.com/abhinav-Katiyan/Swiggy-Order-Analysis)
+*Feb 2024 | SQL, Power BI | GitHub Repository*  
+- Analyzed **100,000+ orders** to uncover actionable insights on customer behavior and sales performance.
+- Developed **interactive Power BI dashboards** for stakeholders, visualizing key metrics such as order volumes, average order time, and revenue, which led to a 10% increase in sales.
 
-### [AtliQ Consumer Goods Reports](https://github.com/abhinav-Katiyan/-AD_Hoc_analysis/blob/main/README.md)
-*June 2024 | SQL, PivotTable | GitHub Repository*
-- Enhanced reporting accuracy by 25% and reduced query time by 30%.
+### [Global Economic Trends Explorer](https://github.com/abhinav-Katiyan/Global-Economic-Trends)
+*Jan 2024 | SQL, Python | GitHub Repository*  
+- Created a **web app** using Python, where I automated the collection of economic indicators (GDP, population, inflation) from the **World Bank API**.
+- Reduced manual data collection time by **30+ hours per month** and provided valuable insights into **global economic trends** from 1960 to 2023.
 
-## Relevant Coursework
+### [Atliq Consumer Goods Reporting Dashboard](https://github.com/abhinav-Katiyan/Atliq-Consumer-Goods-Reports)
+*June 2024 | SQL, Power BI, Excel | GitHub Repository*  
+- Developed a **Power BI dashboard** that combined sales data from multiple sources, including Excel and SQL databases.
+- Optimized the dashboard with **DAX Studio**, improving its performance by **5%** and reducing data-related expenses by **20%**.
 
-- **Machine Learning**
-- **Data Visualization**
+---
 
 ## Education
 
-### Chandigarh University
-*Aug 2022 – Aug 2024*
-- Master of Business Administration
+**Chandigarh University**  
+*Aug 2022 – Aug 2024*  
+Master of Business Administration (Business Analytics)
+
+**Kurukshetra University**  
+*Jun 2019 – Aug 2022*  
+Bachelor of Business Administration (Finance)
+
+---
 
 ## Certifications
 
-- [Hacker Rank SQL: SQL (Basic)](https://www.hackerrank.com/certificates/5e9c7cd6154a) - View Credentials
-- [Hacker Rank SQL: SQL (Intermediate)](https://www.hackerrank.com/certificates/a1b7a19b508e) - View Credentials
-
-## Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-sharma-work21/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=wordpress&logoColor=white)](https://abhinav-resume.streamlit.app/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinavkatiyan21@gmail.com)
-
-
-Feel free to explore my repositories and reach out for collaborations or just to connect! 😊
+- [HackerRank SQL (Basic)](https://www.hackerrank.com/certificates/5e9c7cd6154a)  
+- [HackerRank SQL (Intermediate)](https://www.hackerrank.com/certificates/a1b7a19b508e)  
 
 ---
+
+## Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/abhinav-sharma-work21/)  
+[Portfolio](https://abhinav-portfolio-showcase.lovable.app/)  
+[Email](mailto:abhinavkatiyan21@gmail.com)
+
+---
+
+Feel free to explore my repositories and reach out for collaborations or just to connect!
